@@ -31,7 +31,7 @@ git clone https://github.com/Robert-Cortez-Rudi/Automacao_Relatorio_Vendas.git
 cd Automacao_Relatorio_Vendas
 ```
 
-2. Instale as dependências do projeto:
+2. Agora dentro de um editor de código, instale as dependências do projeto:
 
 ```
 pip install -r requirements.txt
@@ -43,7 +43,7 @@ pip install -r requirements.txt
 email.To = "" # Conta que receberá o email
 ```
 
-4. Execute o arquivo main.py:
+4. Por fim, execute o arquivo main.py:
 
 ```
 python main.py
@@ -56,7 +56,6 @@ python main.py
 ![Email](images/Email.png)
 
 ![Excel](images/Excel.png)
-
 
 ## Como ajudar com o projeto 💯
 
