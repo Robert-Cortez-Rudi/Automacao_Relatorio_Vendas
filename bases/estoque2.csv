@@ -1,0 +1,76 @@
+Nome do Produto,Sistema,Documento,Transação,Meio de Pagamento,Moeda,Preço do Produto,Número da Parcela,Data de Venda,Status,Cliente,País,Tipo de Pagamento
+HD,Online,88960,Venda,Pix,BRL,300,1,28/06/2024,Pendente,Cliente 1,Brasil,À Vista
+Processador,Online,30421,Troca,Transferência Bancária,BRL,1200,1,28/06/2024,Completa,Cliente 2,Brasil,À Vista
+Fonte,Online,59880,Devolução,Pix,BRL,200,1,28/06/2024,Completa,Cliente 3,Brasil,À Vista
+Monitor,Online,21220,Troca,Transferência Bancária,BRL,1200,1,28/06/2024,Completa,Cliente 4,Brasil,Parcelado
+Monitor,Online,51112,Devolução,Boleto,BRL,1200,1,28/06/2024,Completa,Cliente 5,Brasil,Parcelado
+Laptop,Online,77565,Venda,Boleto,BRL,4000,1,28/06/2024,Pendente,Cliente 6,Brasil,Parcelado
+Teclado,Online,67238,Venda,Pix,BRL,150,1,28/06/2024,Completa,Cliente 7,Brasil,À Vista
+Memória RAM,Online,43552,Venda,Boleto,BRL,400,1,28/06/2024,Pendente,Cliente 8,Brasil,Parcelado
+Processador,Online,63116,Troca,Boleto,BRL,1200,1,28/06/2024,Pendente,Cliente 9,Brasil,Parcelado
+Processador,Online,50252,Troca,Cartão de Crédito,BRL,1200,6,28/06/2024,Completa,Cliente 10,Brasil,À Vista
+Teclado,Online,57758,Troca,Transferência Bancária,BRL,150,1,28/06/2024,Pendente,Cliente 11,Brasil,Parcelado
+Smartphone,Online,12854,Devolução,Boleto,BRL,3000,1,28/06/2024,Pendente,Cliente 12,Brasil,Parcelado
+Processador,Online,80102,Troca,Boleto,BRL,1200,1,28/06/2024,Pendente,Cliente 13,Brasil,À Vista
+Fonte,Online,92868,Venda,Pix,BRL,200,1,28/06/2024,Pendente,Cliente 14,Brasil,À Vista
+Teclado,Online,41182,Venda,Pix,BRL,150,1,28/06/2024,Completa,Cliente 15,Brasil,À Vista
+Mouse,Online,80632,Venda,Cartão de Crédito,BRL,50,9,28/06/2024,Pendente,Cliente 16,Brasil,Parcelado
+Placa Mãe,Online,10038,Troca,Transferência Bancária,BRL,800,1,28/06/2024,Completa,Cliente 17,Brasil,À Vista
+HD,Online,11105,Devolução,Boleto,BRL,300,1,28/06/2024,Completa,Cliente 18,Brasil,Parcelado
+Placa de Vídeo,Online,13906,Devolução,Transferência Bancária,BRL,2500,1,28/06/2024,Completa,Cliente 19,Brasil,Parcelado
+HD,Online,83114,Devolução,Transferência Bancária,BRL,300,1,28/06/2024,Completa,Cliente 20,Brasil,Parcelado
+Smartphone,Online,15143,Troca,Transferência Bancária,BRL,3000,1,28/06/2024,Pendente,Cliente 21,Brasil,Parcelado
+Memória RAM,Online,12587,Venda,Pix,BRL,400,1,28/06/2024,Pendente,Cliente 22,Brasil,Parcelado
+Fonte,Online,98611,Venda,Cartão de Crédito,BRL,200,6,28/06/2024,Pendente,Cliente 23,Brasil,Parcelado
+HD,Online,32451,Venda,Pix,BRL,300,1,28/06/2024,Pendente,Cliente 24,Brasil,À Vista
+Laptop,Online,80726,Devolução,Boleto,BRL,4000,1,28/06/2024,Pendente,Cliente 25,Brasil,Parcelado
+Laptop,Online,40980,Venda,Pix,BRL,4000,1,28/06/2024,Pendente,Cliente 26,Brasil,Parcelado
+Teclado,Online,70063,Troca,Cartão de Crédito,BRL,150,6,28/06/2024,Completa,Cliente 27,Brasil,À Vista
+Placa Mãe,Online,28346,Troca,Cartão de Crédito,BRL,800,6,28/06/2024,Pendente,Cliente 28,Brasil,Parcelado
+Monitor,Online,33078,Venda,Pix,BRL,1200,1,28/06/2024,Pendente,Cliente 29,Brasil,Parcelado
+Smartphone,Online,12766,Devolução,Boleto,BRL,3000,1,28/06/2024,Pendente,Cliente 30,Brasil,À Vista
+Mouse,Online,79068,Venda,Pix,BRL,50,1,28/06/2024,Completa,Cliente 31,Brasil,Parcelado
+Teclado,Online,41137,Devolução,Pix,BRL,150,1,28/06/2024,Pendente,Cliente 32,Brasil,À Vista
+HD,Online,85275,Troca,Transferência Bancária,BRL,300,1,28/06/2024,Pendente,Cliente 33,Brasil,Parcelado
+Teclado,Online,70043,Troca,Pix,BRL,150,1,28/06/2024,Completa,Cliente 34,Brasil,À Vista
+Memória RAM,Online,97004,Devolução,Transferência Bancária,BRL,400,1,28/06/2024,Pendente,Cliente 35,Brasil,Parcelado
+SSD,Online,40762,Devolução,Pix,BRL,600,1,28/06/2024,Completa,Cliente 36,Brasil,À Vista
+HD,Online,92904,Troca,Pix,BRL,300,1,28/06/2024,Pendente,Cliente 37,Brasil,À Vista
+Fone de Ouvido,Online,88489,Devolução,Transferência Bancária,BRL,200,1,28/06/2024,Pendente,Cliente 38,Brasil,Parcelado
+Monitor,Online,98525,Venda,Pix,BRL,1200,1,28/06/2024,Pendente,Cliente 39,Brasil,À Vista
+Tablet,Online,28001,Troca,Transferência Bancária,BRL,1200,1,28/06/2024,Pendente,Cliente 40,Brasil,Parcelado
+Fonte,Online,60250,Devolução,Transferência Bancária,BRL,200,1,28/06/2024,Pendente,Cliente 41,Brasil,Parcelado
+Mouse,Online,32666,Venda,Boleto,BRL,50,1,28/06/2024,Completa,Cliente 42,Brasil,À Vista
+Mouse,Online,77799,Troca,Transferência Bancária,BRL,50,1,28/06/2024,Pendente,Cliente 43,Brasil,Parcelado
+Tablet,Online,58023,Devolução,Boleto,BRL,1200,1,28/06/2024,Pendente,Cliente 44,Brasil,À Vista
+Fone de Ouvido,Online,62713,Venda,Pix,BRL,200,1,28/06/2024,Pendente,Cliente 45,Brasil,Parcelado
+Memória RAM,Online,67436,Troca,Boleto,BRL,400,1,28/06/2024,Pendente,Cliente 46,Brasil,À Vista
+Processador,Online,45726,Troca,Boleto,BRL,1200,1,28/06/2024,Completa,Cliente 47,Brasil,Parcelado
+Smartphone,Online,93119,Venda,Transferência Bancária,BRL,3000,1,28/06/2024,Pendente,Cliente 48,Brasil,À Vista
+Mouse,Online,21075,Troca,Transferência Bancária,BRL,50,1,28/06/2024,Pendente,Cliente 49,Brasil,Parcelado
+Processador,Online,25272,Devolução,Boleto,BRL,1200,1,28/06/2024,Pendente,Cliente 50,Brasil,Parcelado
+Memória RAM,Online,52043,Devolução,Pix,BRL,400,1,28/06/2024,Pendente,Cliente 51,Brasil,À Vista
+HD,Online,86207,Venda,Transferência Bancária,BRL,300,1,28/06/2024,Completa,Cliente 52,Brasil,Parcelado
+Processador,Online,18499,Devolução,Cartão de Crédito,BRL,1200,2,28/06/2024,Completa,Cliente 53,Brasil,À Vista
+Memória RAM,Online,49164,Venda,Boleto,BRL,400,1,28/06/2024,Completa,Cliente 54,Brasil,Parcelado
+Placa Mãe,Online,30408,Devolução,Pix,BRL,800,1,28/06/2024,Pendente,Cliente 55,Brasil,À Vista
+HD,Online,27279,Troca,Cartão de Crédito,BRL,300,9,28/06/2024,Pendente,Cliente 56,Brasil,À Vista
+Fonte,Online,51503,Troca,Cartão de Crédito,BRL,200,7,28/06/2024,Pendente,Cliente 57,Brasil,À Vista
+Smartphone,Online,49154,Devolução,Cartão de Crédito,BRL,3000,3,28/06/2024,Pendente,Cliente 58,Brasil,À Vista
+Fonte,Online,25840,Devolução,Pix,BRL,200,1,28/06/2024,Pendente,Cliente 59,Brasil,À Vista
+Placa de Vídeo,Online,11160,Troca,Transferência Bancária,BRL,2500,1,28/06/2024,Pendente,Cliente 60,Brasil,Parcelado
+Fone de Ouvido,Online,73859,Venda,Pix,BRL,200,1,28/06/2024,Completa,Cliente 61,Brasil,À Vista
+Mouse,Online,69432,Devolução,Pix,BRL,50,1,28/06/2024,Pendente,Cliente 62,Brasil,Parcelado
+Tablet,Online,74021,Devolução,Pix,BRL,1200,1,28/06/2024,Pendente,Cliente 63,Brasil,Parcelado
+Processador,Online,48683,Venda,Boleto,BRL,1200,1,28/06/2024,Pendente,Cliente 64,Brasil,À Vista
+SSD,Online,50116,Devolução,Cartão de Crédito,BRL,600,7,28/06/2024,Pendente,Cliente 65,Brasil,À Vista
+Smartphone,Online,43930,Troca,Boleto,BRL,3000,1,28/06/2024,Pendente,Cliente 66,Brasil,Parcelado
+Tablet,Online,18468,Troca,Pix,BRL,1200,1,28/06/2024,Completa,Cliente 67,Brasil,Parcelado
+Memória RAM,Online,17323,Devolução,Boleto,BRL,400,1,28/06/2024,Pendente,Cliente 68,Brasil,Parcelado
+Smartphone,Online,79743,Venda,Transferência Bancária,BRL,3000,1,28/06/2024,Completa,Cliente 69,Brasil,Parcelado
+Smartphone,Online,56747,Venda,Boleto,BRL,3000,1,28/06/2024,Pendente,Cliente 70,Brasil,À Vista
+Smartphone,Online,43074,Venda,Pix,BRL,3000,1,28/06/2024,Completa,Cliente 71,Brasil,À Vista
+SSD,Online,67259,Venda,Cartão de Crédito,BRL,600,8,28/06/2024,Pendente,Cliente 72,Brasil,À Vista
+Memória RAM,Online,13735,Venda,Cartão de Crédito,BRL,400,9,28/06/2024,Pendente,Cliente 73,Brasil,À Vista
+Teclado,Online,84412,Troca,Boleto,BRL,150,1,28/06/2024,Completa,Cliente 74,Brasil,À Vista
+Tablet,Online,96004,Devolução,Transferência Bancária,BRL,1200,1,28/06/2024,Completa,Cliente 75,Brasil,À Vista
